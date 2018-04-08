@@ -1,25 +1,11 @@
 {
-  "name": "Discord-Bot-Maker-Bot",
-  "author": "Robert Borghese",
-  "main": "bot.js",
-  "version": "1.3.0-beta.5",
-  "dependencies": {
-    "bufferutil": "^3.0.3",
-    "discord.js": "^11.3.0",
-    "discord.js-musicbot-addon": "^1.10.3",
-    "ffmpeg-binaries": "^3.2.2-3",
-    "fstorm": "^0.1.3",
-    "jimp": "^0.2.28",
-    "libsodium-wrappers": "^0.5.4",
-    "npm": "^5.7.1",
-    "opusscript": "0.0.3",
-    "uws": "^9.14.0",
-    "ytdl-core": "^0.20.1",
-    "ytsearcher": "^1.0.3"
-  },
-  "is-music-bot": true,
-  "devDependencies": {
-    "angular2": "^2.0.0-beta.21",
-    "install-peers": "^1.0.2"
-  }
+	"name": "Discord-Bot-Maker-Bot",
+	"author": "Robert Borghese",
+	"main": "bot.js",
+	"version": "1.2.9",
+	"dependencies": {
+		"discord.js": "^11.2.0",
+		"fstorm": "^0.1.3",
+		"jimp": "^0.2.28"
+	}
 }
